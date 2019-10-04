@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: e789855101e00904a96c0573f4fd723e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Collider Cube A
+    100002: Collider Cube B
+    100004: Collider Cube C
+    100006: Collider Cube D
+    100008: Collider Cube E
+    100010: Cube A
+    100012: Cube B
+    100014: Cube C
+    100016: Cube D
+    100018: Cube E
+    100020: //RootNode
+    100022: Outline Cube A
+    100024: Outline Cube B
+    100026: Outline Cube C
+    100028: Outline Cube D
+    100030: Outline Cube E
+    100032: S
+    400000: Collider Cube A
+    400002: Collider Cube B
+    400004: Collider Cube C
+    400006: Collider Cube D
+    400008: Collider Cube E
+    400010: Cube A
+    400012: Cube B
+    400014: Cube C
+    400016: Cube D
+    400018: Cube E
+    400020: //RootNode
+    400022: Outline Cube A
+    400024: Outline Cube B
+    400026: Outline Cube C
+    400028: Outline Cube D
+    400030: Outline Cube E
+    400032: S
+    2100000: Cube
+    2300000: Collider Cube A
+    2300002: Collider Cube B
+    2300004: Collider Cube C
+    2300006: Collider Cube D
+    2300008: Collider Cube E
+    2300010: Cube A
+    2300012: Cube B
+    2300014: Cube C
+    2300016: Cube D
+    2300018: Cube E
+    2300020: Outline Cube A
+    2300022: Outline Cube B
+    2300024: Outline Cube C
+    2300026: Outline Cube D
+    2300028: Outline Cube E
+    3300000: Collider Cube A
+    3300002: Collider Cube B
+    3300004: Collider Cube C
+    3300006: Collider Cube D
+    3300008: Collider Cube E
+    3300010: Cube A
+    3300012: Cube B
+    3300014: Cube C
+    3300016: Cube D
+    3300018: Cube E
+    3300020: Outline Cube A
+    3300022: Outline Cube B
+    3300024: Outline Cube C
+    3300026: Outline Cube D
+    3300028: Outline Cube E
+    4300000: Collider Cube D
+    4300002: Outline Cube D
+    4300004: Cube D
+    4300006: Outline Cube C
+    4300008: Outline Cube E
+    4300010: Outline Cube B
+    4300012: Collider Cube B
+    4300014: Collider Cube E
+    4300016: Collider Cube A
+    4300018: Collider Cube C
+    4300020: Cube B
+    4300022: Cube E
+    4300024: Cube C
+    4300026: Cube A
+    4300028: Outline Cube A
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 120
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

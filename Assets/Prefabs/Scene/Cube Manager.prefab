@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1634914254728557819
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1634914254728557813}
+  - component: {fileID: 1634914254728557812}
+  m_Layer: 0
+  m_Name: Cube Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1634914254728557813
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1634914254728557819}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1634914254728557812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1634914254728557819}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c4ce7cd991e2314e8d75644140a6e1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: 312ba95821565dc4182ba99f195538eb, type: 2}
+  - {fileID: 2100000, guid: 76480f94ac364f747a0c82b8d9c3b680, type: 2}
+  - {fileID: 2100000, guid: 377f1773245ee804e8e1c4d38d6c8618, type: 2}
+  - {fileID: 2100000, guid: efeee550ea8e19149b2d89ea96da549a, type: 2}
+  - {fileID: 2100000, guid: 41b4d3308f6d7e3408d03c096bc6ed32, type: 2}
+  cubes:
+  - {fileID: 4300026, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300020, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300024, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300004, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300022, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  outlines:
+  - {fileID: 4300028, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300010, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300006, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300002, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300008, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  colliders:
+  - {fileID: 4300016, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300012, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300018, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300000, guid: e789855101e00904a96c0573f4fd723e, type: 3}
+  - {fileID: 4300014, guid: e789855101e00904a96c0573f4fd723e, type: 3}
